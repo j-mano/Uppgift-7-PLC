@@ -1,0 +1,16 @@
+Sammanfattning  
+I denna uppgift ska du skapa ett program i något av programmeringsspråken: ladder diagram eller function block diagram. Leveransen består i en bild av detta program.
+
+Om du vill simulera knapparna och lamporna kan du använda denna: Knapp och lamp panel i CoDeSys 
+
+Uppgift  
+Skapa ett program i ladder diagram eller function block diagram som uppfyller följande funktion:
+
+"När BUTTON_1 trycks och hålls nere så tänds LAMP_GREEN och LAMP_BLUE efter 3 sekunder. När BUTTON_1 släpps upp så släcks LAMP_GREEN direkt medans LAMP_BLUE släcks efter 3 sekunder."
+Leverans  
+Du dokumenterar din lösning på valfritt men adekvat sätt. Lösningen ska sedan levereras som en bildfil av godkänt format.
+
+Exempel på adekvata sätt att producera lösningen:
+
+Lösning i mjukvara samt tydlig printscreen - kan med fördel göras i CoDeSys
+Lösning på papper som scannas eller fotograferas
